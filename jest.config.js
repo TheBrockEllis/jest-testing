@@ -1,7 +1,6 @@
 /** @type {import('jest').Config} */
 const config = {
-    verbose: true,
-    preset: "jest-puppeteer"
+    verbose: true
 };
   
 module.exports = config;
